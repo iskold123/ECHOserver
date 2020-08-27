@@ -49,5 +49,27 @@ namespace EchoServer
             sw.WriteLine(str);
             sw.Flush(); // Tømmer buffer
         }
+
+        public void GetWordCount(TcpClient socket)
+        {
+            StreamReader sr = new StreamReader(socket.GetStream());
+            StreamWriter sw = new StreamWriter(socket.GetStream());
+
+            String str = sr.ReadLine();
+
+
+            //string docContent = Socket.getText();
+
+            //// Parse out unwanted whitespace so the split is accurate 
+            //docContent = docContent.replace(/ (< ([^>] +) <) / g, '').replace(/\s +/ g, ' ');
+            //docContent = docContent.replace(/ ^\s\s */, '').replace(/\s\s *$/, '');
+            //int wordCount = 0;
+            //if (docContent != "")
+            //{
+            //    wordCount = docContent.split(" ").length;
+            //}
+
+            //return wordCount;
+        }
     }
 }
