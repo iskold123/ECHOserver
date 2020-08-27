@@ -10,7 +10,7 @@ namespace EchoClient
     {
         public void Start()
         {
-            TcpClient socket = new TcpClient("localhost",7777);
+            TcpClient socket = new TcpClient("localhost",7);
 
             StreamReader sr = new StreamReader(socket.GetStream());
             StreamWriter sw = new StreamWriter(socket.GetStream());

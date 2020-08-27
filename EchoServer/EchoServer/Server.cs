@@ -12,7 +12,7 @@ namespace EchoServer
         public void Start()
         {
             // Opretter server, IP "ekko"
-            TcpListener server = new TcpListener(IPAddress.Loopback, 7777);
+            TcpListener server = new TcpListener(IPAddress.Loopback, 7);
             //starter server;
             server.Start();
 

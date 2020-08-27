@@ -11,3 +11,16 @@ C:\Users\Bruger\Desktop\Teknik\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\Ech
 C:\Users\Bruger\Desktop\Teknik\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.dll
 C:\Users\Bruger\Desktop\Teknik\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
 C:\Users\Bruger\Desktop\Teknik\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache
+C:\Users\Bruger\Source\Repos\iskold123\School\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.exe
+C:\Users\Bruger\Source\Repos\iskold123\School\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.deps.json
+C:\Users\Bruger\Source\Repos\iskold123\School\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.json
+C:\Users\Bruger\Source\Repos\iskold123\School\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.dev.json
+C:\Users\Bruger\Source\Repos\iskold123\School\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.dll
+C:\Users\Bruger\Source\Repos\iskold123\School\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.pdb
+C:\Users\Bruger\Source\Repos\iskold123\School\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csprojAssemblyReference.cache
+C:\Users\Bruger\Source\Repos\iskold123\School\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Source\Repos\iskold123\School\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfoInputs.cache
+C:\Users\Bruger\Source\Repos\iskold123\School\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfo.cs
+C:\Users\Bruger\Source\Repos\iskold123\School\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.dll
+C:\Users\Bruger\Source\Repos\iskold123\School\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
+C:\Users\Bruger\Source\Repos\iskold123\School\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache
